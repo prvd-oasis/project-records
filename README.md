@@ -1,3 +1,8 @@
+
+**The Open Project closed on 14 July 2023. The open source assets remain publicly accessible at https://github.com/prvd-project. OASIS appreciates the efforts of all those who participated in this work.**
+
+-------------------
+
 # Project records
 
 This repository is intended for documents recording the history of the PRVD Open Project, including meeting minutes.
